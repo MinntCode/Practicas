@@ -1,5 +1,5 @@
 #agenda
-#Omar Alejandro Galvis Espitia  02/05/2024
+#@Minntcode
 
 nom = ["alejandro","liliana","elizabeth","omar","copito"]
 num = ["3125577909","4454625035","3546879584","3159876501","3180457900"]
